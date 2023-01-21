@@ -129,6 +129,6 @@ footer {
     height: auto;
 }
 
-.maxwell {
-    text-align: center;
+.maxwell h1{
+    margin: 0 0 32px 105px;
 }
