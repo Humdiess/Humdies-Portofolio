@@ -40,7 +40,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: orange;
+    color: #e03d35;
 }
 
 .detel{
@@ -60,7 +60,7 @@ span{
 }
 
 .detel p{
-    color: 	#ffe4f2;
+    color: 	black;
     line-height: 22px;
 }
 
