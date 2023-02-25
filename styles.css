@@ -8,7 +8,7 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    background: #2E0249;
+    background: #ffffff;
     position: relative;
 }
 
@@ -65,7 +65,7 @@ span{
 }
 
 .detel a{
-    background: #44008b;
+    background: #e03535;
     padding: 10px 18px;
     text-decoration: none;
     font-weight: bold;
