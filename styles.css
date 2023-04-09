@@ -132,3 +132,20 @@ footer {
 .maxwell h1{
     margin: 0 0 32px 105px;
 }
+
+
+#desktop-only {
+    display : none;
+}
+
+@media only screen and (min-width:768px) {
+    #desktop-only {
+        display : block;
+        background-color : #f8d7da;
+        color : #721c24;
+        paddding: 20px;
+        border: 1px solid #f5cncb;
+        margin 20px
+        }
+    }
+    
